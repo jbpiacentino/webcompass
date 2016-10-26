@@ -1,0 +1,858 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"js",
+				"json"
+			],
+			[
+				"strr",
+				"strrev"
+			],
+			[
+				"de",
+				"destinationPath"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"panel",
+				"panel-heading"
+			],
+			[
+				"Req",
+				"Request"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Console/Commands/importHistoryFirefox.php",
+			"settings":
+			{
+				"buffer_size": 4976,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/firefox/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 5027,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/firefox/fileupload.blade.php",
+			"settings":
+			{
+				"buffer_size": 2445,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/FirefoxController.php",
+			"settings":
+			{
+				"buffer_size": 1187,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/email/welcome.blade.php",
+			"settings":
+			{
+				"buffer_size": 262,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "<h3>Welcome to Scotch Queue Team</h3>"
+			}
+		},
+		{
+			"file": "app/Jobs/ImportMozPlaces.php",
+			"settings":
+			{
+				"buffer_size": 870,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "routes/web.php",
+			"settings":
+			{
+				"buffer_size": 1471,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/firefox/upload.blade.php",
+			"settings":
+			{
+				"buffer_size": 1020,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Snippet: ",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jb/webcompass",
+		"/home/jb/webcompass/app",
+		"/home/jb/webcompass/app/Console",
+		"/home/jb/webcompass/app/Console/Commands",
+		"/home/jb/webcompass/app/Exceptions",
+		"/home/jb/webcompass/app/Jobs",
+		"/home/jb/webcompass/database",
+		"/home/jb/webcompass/database/migrations",
+		"/home/jb/webcompass/public",
+		"/home/jb/webcompass/resources",
+		"/home/jb/webcompass/resources/views"
+	],
+	"file_history":
+	[
+		"/home/jb/webcompass/database/migrations/2016_10_23_145227_create_jobs_table.php",
+		"/home/jb/webcompass/.env",
+		"/home/jb/webcompass/public/server/php/UploadHandler.php",
+		"/home/jb/webcompass/public/js/jquery-fileupload/jquery.fileupload-process.js",
+		"/home/jb/webcompass/public/js/jquery-fileupload/jquery.fileupload-angular.js",
+		"/home/jb/webcompass/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/jb/webcompass/database/migrations/2016_10_06_175945_create_places_table.php",
+		"/home/jb/webcompass/resources/views/firefox/fileupload.blade.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/home/jb/cards/vendor/symfony/console/Helper/ProgressBar.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Database/Connection.php",
+		"/home/jb/cards/routes/web.php",
+		"/home/jb/cards/resources/views/layouts/app.blade.php",
+		"/home/jb/cards/app/Console/Kernel.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Filesystem/Filesystem.php",
+		"/home/jb/cards/vendor/symfony/http-foundation/File/UploadedFile.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Http/UploadedFile.php",
+		"/home/jb/cards/app/MozFavicon.php",
+		"/home/jb/cards/app/MozHost.php",
+		"/home/jb/cards/app/MozVisit.php",
+		"/home/jb/cards/app/MozPlace.php",
+		"/home/jb/cards/app/MozModel.php",
+		"/home/jb/cards/app/User.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Database/DatabaseManager.php",
+		"/home/jb/cards/resources/views/firefox/fileupload.blade.php",
+		"/home/jb/cards/app/Console/Commands/importHistoryFirefox.php",
+		"/home/jb/cards/database/migrations/2016_10_08_060334_create_hosts_table.php",
+		"/home/jb/cards/database/migrations/2016_10_06_175945_create_places_table.php",
+		"/home/jb/cards/database/migrations/2016_10_06_175936_create_visits_table.php",
+		"/home/jb/cards/database/migrations/2016_10_11_165533_create_queries_table.php",
+		"/home/jb/cards/app/Place.php",
+		"/home/jb/cards/app/Host.php",
+		"/home/jb/cards/app/Providers/AppServiceProvider.php",
+		"/home/jb/cards/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/jb/cards/vendor/fzaninotto/faker/src/Faker/ORM/CakePHP/EntityPopulator.php",
+		"/home/jb/cards/resources/views/firefox/index.blade.php",
+		"/home/jb/cards/app/Http/Controllers/FirefoxController.php",
+		"/home/jb/cards/app/Visit.php",
+		"/home/jb/cards/app/Query.php",
+		"/home/jb/cards/database/migrations/2016_10_09_071009_create_favicons_table.php",
+		"/home/jb/cards/config/filesystems.php",
+		"/home/jb/cards/resources/views/firefox/uploadStatus.blade.php",
+		"/home/jb/cards/app/Console/Commands/importHistory.php",
+		"/home/jb/cards/app/Console/Commands/importFFplaces.php",
+		"/home/jb/cards/public/basic.html",
+		"/home/jb/cards/resources/views/hosts/index.blade.php",
+		"/home/jb/cards/resources/views/hosts/places.blade.php",
+		"/home/jb/cards/app/Http/Controllers/PlacesController.php",
+		"/home/jb/cards/config/app.php",
+		"/home/jb/cards/app/Http/Controllers/HostsController.php",
+		"/home/jb/.cache/.fr-q85SlN/jQuery-File-Upload-9.12.5/server/php/UploadHandler.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/home/jb/cards/app/Http/Controllers/HomeController.php",
+		"/home/jb/cards/resources/views/places/index.blade.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Builder.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/BelongsToMany.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Relations/HasOneOrMany.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php",
+		"/home/jb/cards/app/Http/Controllers/VisitsController.php",
+		"/home/jb/cards/resources/views/home.blade.php",
+		"/home/jb/cards/database/seeds/DatabaseSeeder.php",
+		"/home/jb/cards/database/seeds/NotesTableSeeder.php",
+		"/home/jb/cards/database/seeds/CardsTableSeeder.php",
+		"/home/jb/cards/app/Http/Controllers/FaviconsController.php",
+		"/home/jb/cards/resources/views/firefox/upload.blade.php",
+		"/home/jb/cards/resources/views/firefox/hosts.blade.php",
+		"/home/jb/cards/resources/views/firefox/places.blade.php",
+		"/home/jb/cards/app/Firefox.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Support/Collection.php",
+		"/home/jb/cards/app/Http/Controllers/MozHistoryController.php",
+		"/home/jb/cards/resources/views/places/upload.blade.php",
+		"/home/jb/cards/app/Policies/PlacePolicy.php",
+		"/home/jb/cards/app/Http/Controllers/Favicon.php",
+		"/home/jb/cards/database/migrations/2016_09_19_173654_create_notes_table.php",
+		"/home/jb/cards/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/home/jb/cards/database/migrations/2016_09_18_192749_create_cards_table.php",
+		"/home/jb/cards/database/migrations/2016_10_03_144547_add_user_to_notes_table.php",
+		"/home/jb/cards/public/css/app.css",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Pagination/AbstractPaginator.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Pagination/Paginator.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Http/Request.php",
+		"/home/jb/cards/.env",
+		"/home/jb/cards/bootstrap/autoload.php",
+		"/home/jb/cards/.user.ini",
+		"/home/jb/cards/public/phpinfo.php",
+		"/home/jb/cards/public/.htaccess",
+		"/home/jb/cards/bootstrap/app.php",
+		"/home/jb/cards/app/Http/Controllers/CardsController.php",
+		"/home/jb/cards/.htaccess",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Foundation/Console/ServeCommand.php",
+		"/home/jb/cards/app/Policies/CardPolicy.php",
+		"/home/jb/cards/php.ini",
+		"/home/jb/cards/public/php.ini",
+		"/home/jb/cards/resources/views/fileUpload.blade.php",
+		"/home/jb/cards/app/Providers/AuthServiceProvider.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Routing/Router.php",
+		"/home/jb/cards/database/factories/ModelFactory.php",
+		"/home/jb/cards/config/session.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Routing/Route.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Database/ConnectionResolver.php",
+		"/home/jb/cards/resources/views/places/placesUpload.blade.php",
+		"/home/jb/cards/vendor/fzaninotto/faker/src/Faker/Provider/Lorem.php",
+		"/home/jb/cards/resources/views/auth/login.blade.php",
+		"/home/jb/cards/resources/views/auth/register.blade.php",
+		"/home/jb/cards/resources/views/auth/passwords/email.blade.php",
+		"/home/jb/cards/resources/views/auth/passwords/reset.blade.php",
+		"/home/jb/cards/resources/views/cards/edit.blade.php",
+		"/home/jb/cards/resources/views/cards/view.blade.php",
+		"/home/jb/cards/resources/views/notes/edit.blade.php",
+		"/home/jb/cards/resources/views/cards/index.blade.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Validation/Validator.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Http/RedirectResponse.php",
+		"/home/jb/cards/app/Policies/NotePolicy.php",
+		"/home/jb/cards/app/Http/Controllers/NotesController.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Routing/Redirector.php",
+		"/home/jb/cards/app/Note.php",
+		"/home/jb/cards/app/Card.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Container/Container.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Foundation/Auth/User.php",
+		"/home/jb/cards/resources/views/notes/card.blade.php",
+		"/home/jb/cards/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php",
+		"/home/jb/cards/database/seeds/UsersTableSeeder.php",
+		"/home/jb/cards/database/seeds/class BreedsTableSeeder extends Seeder {.php",
+		"/home/jb/larauth/database/seeds/DatabaseSeeder.php",
+		"/home/jb/larauth/composer.json",
+		"/home/jb/larauth/config/app.php",
+		"/home/jb/larauth/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php",
+		"/home/jb/cards/vendor/phpunit/php-code-coverage/tests/_files/NotExistingCoveredElementTest.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/jb/webcompass/public/js/jquery-fileupload",
+			"/home/jb/webcompass",
+			"/home/jb/webcompass/app",
+			"/home/jb/webcompass/",
+			"/home/jb/webcompass/app",
+			"/home/jb/cards/app",
+			"/home/jb/cards",
+			"/home/jb/larauth",
+			"larauth",
+			"cards",
+			"/*",
+			"/",
+			"~/cards/*",
+			"."
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"processalways",
+			"fileuploadprocessalways",
+			"asset",
+			"ajax",
+			"server/php/",
+			"var url = 'server/php/'",
+			"placesFile",
+			"placesFil",
+			"moz_places",
+			"debug",
+			"Config",
+			"Ssearch",
+			"success",
+			"MozHistory",
+			"MozHistoryController",
+			"sort",
+			"MozPlace",
+			"MozHistory",
+			"Mozmodel",
+			"2016_10_06_211016_create_cache_table",
+			"https://fonts.googleapis.com/css?family=Raleway:300,400,600",
+			"Laravel development server started",
+			"serve ",
+			"serve",
+			"upload_max_filesize",
+			"ini_set",
+			" <?php",
+			"$factory",
+			"success",
+			"glyphicons",
+			"Facades",
+			"freshTimestamp",
+			"setCreatedAt",
+			"created_at",
+			"> ",
+			"card",
+			"homestead",
+			"pzth",
+			"PATH",
+			"f",
+			"b"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"Firefox",
+			"MozModel",
+			"note"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/home/jb/webcompass"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Console/Commands/importHistoryFirefox.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4976,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								284,
+								284
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/firefox/index.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5027,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3528,
+								4079
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1416.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/firefox/fileupload.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2445,
+								2445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 578.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/Http/Controllers/FirefoxController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1187,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								170,
+								170
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 459.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/email/welcome.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								262,
+								262
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<h3>Welcome to Scotch Queue Team</h3>",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/Jobs/ImportMozPlaces.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 870,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								240,
+								240
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "routes/web.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1070,
+								1070
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 51.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "resources/views/firefox/upload.blade.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1020,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								544,
+								544
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".env",
+				".env"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				"web.p",
+				"routes/web.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"web.",
+				"routes/web.php"
+			],
+			[
+				"file",
+				"config/filesystems.php"
+			],
+			[
+				"layouts",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"firef",
+				"app/Http/Controllers/FirefoxController.php"
+			],
+			[
+				"app.",
+				"config/app.php"
+			],
+			[
+				"firefo",
+				"app/Http/Controllers/FirefoxController.php"
+			],
+			[
+				"mozpla",
+				"resources/views/mozplaces/index.blade.php"
+			],
+			[
+				"mozpl",
+				"app/MozPlace.php"
+			],
+			[
+				"hom",
+				"resources/views/home.blade.php"
+			],
+			[
+				"hosts",
+				"resources/views/hosts/index.blade.php"
+			],
+			[
+				"places/",
+				"resources/views/places/index.blade.php"
+			],
+			[
+				"home",
+				"resources/views/home.blade.php"
+			],
+			[
+				"index",
+				"resources/views/hosts/index.blade.php"
+			],
+			[
+				"upload",
+				"resources/views/places/upload.blade.php"
+			],
+			[
+				"layout",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"layou",
+				"resources/views/layouts/app.blade.php"
+			],
+			[
+				"session",
+				"config/session.php"
+			],
+			[
+				"web.php",
+				"routes/web.php"
+			],
+			[
+				"card.",
+				"app/Card.php"
+			],
+			[
+				"notesco",
+				"app/Http/Controllers/NotesController.php"
+			],
+			[
+				"app",
+				"config/app.php"
+			],
+			[
+				"cardscon",
+				"app/Http/Controllers/CardsController.php"
+			],
+			[
+				"lay",
+				"resources/views/layout.blade.php"
+			],
+			[
+				"create_car",
+				"database/migrations/2016_09_18_192749_create_cards_table.php"
+			],
+			[
+				"create_u",
+				"database/migrations/2014_10_12_000000_create_users_table.php"
+			],
+			[
+				"create_",
+				"database/migrations/2016_09_19_173654_create_notes_table.php"
+			],
+			[
+				"noteconte",
+				"vendor/phpunit/php-code-coverage/tests/_files/NotExistingCoveredElementTest.php"
+			],
+			[
+				"note.",
+				"app/Note.php"
+			],
+			[
+				"notescon",
+				"app/Http/Controllers/NotesController.php"
+			],
+			[
+				"data",
+				"config/database.php"
+			],
+			[
+				"web.ph",
+				"routes/web.php"
+			],
+			[
+				"database",
+				"config/database.php"
+			],
+			[
+				"welcom",
+				"resources/views/welcome.blade.php"
+			],
+			[
+				"routes.php",
+				"routes/web.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
